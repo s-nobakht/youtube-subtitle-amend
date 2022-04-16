@@ -1,5 +1,5 @@
 # youtube-subtitle-amend
-Amending YouTube subtitles to have a better sense of reading subtitles.
+Amending YouTube subtitles to have subtitles with better sense of tracking.
 
 # What does this code do?
 In most of the ASR (Automatic Speech Recognition) system, the output is generated in real-time. The YouTube subtitle service
